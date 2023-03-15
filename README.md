@@ -6,7 +6,6 @@
 
 # About Me
 - 🔭 I’m currently working on a **Multi Vendor Travel Application** as part of my Final Year Project 
-- 🌱 I’m currently learning **React Native**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/khanabdur/), [Email](mailto:abdekhan1o1@gmail.com)
 
 ### Connect with me:
