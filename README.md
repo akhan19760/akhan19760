@@ -4,28 +4,28 @@
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif" width="600" height="500" alt="Coding-GIF" style="float:right;">
 </div>
 
-# About Me
+## :raising_hand_man: About Me
 - 🔭 I’m currently working on a **Multi Vendor Travel Application** as part of my Final Year Project 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/khanabdur/), [Email](mailto:abdekhan1o1@gmail.com)
 
-### Connect with me:
+### :telephone_receiver: Connect with me:
 [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="50px" alt="LinkedIn">](https://www.linkedin.com/in/yourusername/)
 &nbsp;&nbsp;&nbsp;[<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="50px" alt="Gmail">](mailto:abdekhan1o1@gmail.com)
 
-# Languages & Frameworks
+## :technologist: Languages & Frameworks
 [<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="50px" alt="Flutter">](https://flutter.dev/?gclid=Cj0KCQjw2cWgBhDYARIsALggUhqlmUOaR0HiMI6vGtdTh7VejDJ4Tbx_3CgT-kP0xhxL57qad2BdyYsaAtvYEALw_wcB&gclsrc=aw.ds)&nbsp;&nbsp;&nbsp;[<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="50px" alt="Dart">](https://dart.dev/)&nbsp;&nbsp;&nbsp;[<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50px" alt="Reactjs">](https://reactjs.org/)&nbsp;&nbsp;&nbsp;[<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50px" alt="Nodejs">](https://nodejs.org/en/)&nbsp;&nbsp;&nbsp;[<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="50px" alt="Javascript">](https://www.javascript.com/)&nbsp;&nbsp;&nbsp;[<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="50px" alt="Java">](https://www.java.com/en/)&nbsp;&nbsp;&nbsp;[<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50px" alt="Python">](https://www.python.org/)
 
 
-# Databases
+## :floppy_disk: Databases
 [<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50px" alt="Firebase">](https://firebase.google.com/)&nbsp;&nbsp;&nbsp;[<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="50px" alt="MongoDB">](https://www.mongodb.com/)&nbsp;&nbsp;&nbsp;[<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="50px" alt="MySQL">](https://www.mysql.com/)&nbsp;&nbsp;&nbsp;[<img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="50px" alt="Oracle">](https://www.oracle.com/)
 
-# Tools
+## :wrench: Tools
 [<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="50px" alt="VSCode">](https://code.visualstudio.com/)&nbsp;&nbsp;&nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" width="50px" alt="IntelliJ">](https://www.jetbrains.com/idea/)&nbsp;&nbsp;&nbsp;[<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50px" alt="Figma">](https://www.figma.com/)&nbsp;&nbsp;&nbsp;[<img src="https://www.vectorlogo.zone/logos/balsamiq/balsamiq-icon.svg" width="50px" alt="Balsamiq">](https://balsamiq.com/)&nbsp;&nbsp;&nbsp;[<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50px" alt="Postman">](https://www.postman.com/)&nbsp;&nbsp;&nbsp;[<img src="https://www.umlet.com/pic/UMLet_logo_small.png" width="50px" alt="Umlet">]([https://code.visualstudio.com/](https://www.umlet.com/))&nbsp;&nbsp;&nbsp;[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" width="50px" alt="PowerBI">](https://powerbi.microsoft.com/en-au/)&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="50px" alt="Tableau">](https://www.tableau.com/)&nbsp;&nbsp;&nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Qlik_Logo.svg/2560px-Qlik_Logo.svg.png" width="150px" height="50px" alt="Qlik">](https://www.qlik.com/us/)&nbsp;&nbsp;&nbsp;[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/KNIMELogoTM.png" width="150px" height="50px" alt="KNIME">](https://www.knime.com/)&nbsp;&nbsp;&nbsp;
 
-# My GitHub Stats
+## :information_source: My GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhan19760&layout=compact&theme=radical)
 
 
