@@ -26,6 +26,14 @@
 [<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="50px" alt="Tableau">](https://www.tableau.com/)&nbsp;&nbsp;&nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Qlik_Logo.svg/2560px-Qlik_Logo.svg.png" width="150px" height="50px" alt="Qlik">](https://www.qlik.com/us/)&nbsp;&nbsp;&nbsp;[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/KNIMELogoTM.png" width="150px" height="50px" alt="KNIME">](https://www.knime.com/)&nbsp;&nbsp;&nbsp;
 
+# My GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhan19760&layout=compact&theme=radical)
+
+
+![Abdur Rahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan19760&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akhan19760&theme=radical)](https://git.io/streak-stats)
+
 <!--
 **akhan19760/akhan19760** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
