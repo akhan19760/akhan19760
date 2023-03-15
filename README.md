@@ -1,5 +1,5 @@
 ### Heyy there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Iso&size=24&duration=6000&pause=1000&color=9D00FF&width=435&lines=I'm+Abdur+Rahim+Khan;I'm+a+Passionate+Flutter+Developer;%D9%85%DB%8C%DA%BA+%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%DB%8C%D9%85+%D8%AE%D8%A7%D9%86+%DB%81%D9%88%DA%BA%DB%94;%D9%85%DB%8C%DA%BA+%D8%A7%DB%8C%DA%A9+%D9%BE%D8%B1%D8%AC%D9%88%D8%B4+%D9%81%D9%84%D9%B9%D8%B1+%DA%88%D9%88%DB%8C%D9%84%D9%BE%D8%B1+%DB%81%D9%88%DA%BA%DB%94)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Iso&size=24&duration=6000&pause=1000&color=00FFEF&width=435&lines=I'm+Abdur+Rahim+Khan;I'm+a+Passionate+Flutter+Developer;%D9%85%DB%8C%DA%BA+%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%DB%8C%D9%85+%D8%AE%D8%A7%D9%86+%DB%81%D9%88%DA%BA%DB%94;%D9%85%DB%8C%DA%BA+%D8%A7%DB%8C%DA%A9+%D9%BE%D8%B1%D8%AC%D9%88%D8%B4+%D9%81%D9%84%D9%B9%D8%B1+%DA%88%D9%88%DB%8C%D9%84%D9%BE%D8%B1+%DB%81%D9%88%DA%BA%DB%94)](https://git.io/typing-svg)
 <div id="about-me">
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif" width="600" height="500" alt="Coding-GIF" style="float:right;">
 </div>
