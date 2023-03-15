@@ -1,8 +1,11 @@
 ### Heyy there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Abdur+Rahim;I'm+a+Flutter+Developer)](https://git.io/typing-svg)
+<div id="about-me">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif" width="600" height="500" alt="Coding-GIF" style="float:right;">
+</div>
 
 # About Me
-- 🔭 I’m currently working on a **Multi Vendor Travel Application** as part of my Final Year Project
+- 🔭 I’m currently working on a **Multi Vendor Travel Application** as part of my Final Year Project 
 - 🌱 I’m currently learning **React Native**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/khanabdur/), [Email](mailto:abdekhan1o1@gmail.com)
 
@@ -22,9 +25,6 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" width="50px" alt="Flutter">](https://www.jetbrains.com/idea/)&nbsp;&nbsp;&nbsp;[<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50px" alt="Flutter">](https://code.visualstudio.com/)&nbsp;&nbsp;&nbsp;[<img src="https://www.vectorlogo.zone/logos/balsamiq/balsamiq-icon.svg" width="50px" alt="Flutter">](https://code.visualstudio.com/)&nbsp;&nbsp;&nbsp;[<img src="https://www.umlet.com/pic/UMLet_logo_small.png" width="50px" alt="Flutter">](https://code.visualstudio.com/)&nbsp;&nbsp;&nbsp;[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" width="50px" alt="Flutter">](https://code.visualstudio.com/)&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="50px" alt="Flutter">](https://code.visualstudio.com/)&nbsp;&nbsp;&nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Qlik_Logo.svg/2560px-Qlik_Logo.svg.png" width="150px" height="50px" alt="Flutter">](https://code.visualstudio.com/)&nbsp;&nbsp;&nbsp;[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/KNIMELogoTM.png" width="150px" height="50px" alt="Flutter">](https://code.visualstudio.com/)&nbsp;&nbsp;&nbsp;
-
-![alt text](https://giphy.com/embed/TFPdmm3rdzeZ0kP3zG)
-
 
 <!--
 **akhan19760/akhan19760** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
