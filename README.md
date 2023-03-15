@@ -26,7 +26,7 @@
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Qlik_Logo.svg/2560px-Qlik_Logo.svg.png" width="150px" height="50px" alt="Qlik">](https://www.qlik.com/us/)&nbsp;&nbsp;&nbsp;[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/KNIMELogoTM.png" width="150px" height="50px" alt="KNIME">](https://www.knime.com/)&nbsp;&nbsp;&nbsp;[<img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="50px" alt="Json">](https://www.json.org/json-en.html)&nbsp;&nbsp;&nbsp;
 
 ## :information_source: My GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akhan19760&theme=tokyonight)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;![Abdur Rahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan19760&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akhan19760&theme=tokyonight)](https://git.io/streak-stats)&nbsp;&nbsp;![Abdur Rahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan19760&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhan19760&layout=compact&theme=tokyonight)
 
