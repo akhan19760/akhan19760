@@ -31,8 +31,6 @@
 
 ![Abdur Rahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan19760&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhan19760&layout=default&theme=dracula)
-
 <!--
 **akhan19760/akhan19760** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
