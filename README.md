@@ -5,7 +5,7 @@
 </div>
 
 ## :raising_hand_man: About Me
-- 🔭 I’m currently working on a **Job search App called JobScout** to help bridge the gap between employers and employees 
+- 🔭 I’m currently working on a **Job search App called JobScout** to help job hunters scout their future job 
 - 🌱 I’m currently learning **Flutter App Development**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/khanabdur/), [Email](mailto:abdekhan1o1@gmail.com)
 
