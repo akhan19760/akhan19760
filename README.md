@@ -1,54 +1,173 @@
-### Heyy there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Iso&size=24&duration=6000&pause=1000&color=00FFEF&width=435&lines=I'm+Abdur+Rahim+Khan;I'm+a+Passionate+Flutter+Developer;%D9%85%DB%8C%DA%BA+%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%DB%8C%D9%85+%D8%AE%D8%A7%D9%86+%DB%81%D9%88%DA%BA%DB%94;%D9%85%DB%8C%DA%BA+%D8%A7%DB%8C%DA%A9+%D9%BE%D8%B1%D8%AC%D9%88%D8%B4+%D9%81%D9%84%D9%B9%D8%B1+%DA%88%D9%88%DB%8C%D9%84%D9%BE%D8%B1+%DB%81%D9%88%DA%BA%DB%94)](https://git.io/typing-svg)
-<div id="about-me">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif" width="500" height="400" alt="Coding-GIF" style="float:right;">
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:61DAFB&height=200&section=header&text=Abdur%20Rahim%20Khan&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Engineer%20%E2%80%A2%20Karachi%2C%20Pakistan&descSize=18&descAlignY=55&animation=fadeIn" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Clean+UI+from+complex+requirements%2C+shipped+under+real+deadlines;React+%C2%B7+TypeScript+%C2%B7+Next.js+%C2%B7+AI-Integrated+Tools;Building+for+regulated+%26+real-time+systems;%D9%85%DB%8C%DA%BA+%D8%A7%DB%8C%DA%A9+%D9%81%D8%B1%D9%86%D9%B9+%D8%A7%DB%8C%D9%86%D8%AC%D9%86%DB%8C%D8%B1+%DB%81%D9%88%DA%BA" alt="Typing SVG" />
+</a>
+
+<p>
+  <a href="https://www.linkedin.com/in/khanabdur/"><img src="https://img.shields.io/badge/LinkedIn-3178C6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kabdurrahim706@gmail.com"><img src="https://img.shields.io/badge/Email-61DAFB?style=for-the-badge&logo=gmail&logoColor=0D1117" /></a>
+  <a href="https://github.com/akhan19760"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=61DAFB" /></a>
+</p>
+
 </div>
 
-## :raising_hand_man: About Me
-- 🔭 I’m currently working on a **Job search App called JobScout** to help job hunters scout their future job 
-- 🌱 I’m currently learning **Flutter App Development**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/khanabdur/), [Email](mailto:abdekhan1o1@gmail.com)
+<br>
 
-### :telephone_receiver: Connect with me:
-[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="50px" alt="LinkedIn">](https://www.linkedin.com/in/yourusername/)
-&nbsp;&nbsp;&nbsp;[<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="50px" alt="Gmail">](mailto:abdekhan1o1@gmail.com)
+## `interface AboutMe`
 
-## :technologist: Languages & Frameworks
-[<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="50px" alt="Flutter">](https://flutter.dev/?gclid=Cj0KCQjw2cWgBhDYARIsALggUhqlmUOaR0HiMI6vGtdTh7VejDJ4Tbx_3CgT-kP0xhxL57qad2BdyYsaAtvYEALw_wcB&gclsrc=aw.ds)&nbsp;&nbsp;&nbsp;[<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="50px" alt="Dart">](https://dart.dev/)&nbsp;&nbsp;&nbsp;[<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50px" alt="Reactjs">](https://reactjs.org/)&nbsp;&nbsp;&nbsp;[<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50px" alt="Nodejs">](https://nodejs.org/en/)&nbsp;&nbsp;&nbsp;[<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="50px" alt="Javascript">](https://www.javascript.com/)&nbsp;&nbsp;&nbsp;[<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="50px" alt="Java">](https://www.java.com/en/)&nbsp;&nbsp;&nbsp;[<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50px" alt="Python">](https://www.python.org/)&nbsp;&nbsp;&nbsp;<img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="50px" alt="SQL">
+```ts
+interface Developer {
+  name: 'Abdur Rahim Khan';
+  location: 'Karachi, Pakistan';
+  experience: '3+ years';
+  focus: ['React', 'TypeScript', 'Next.js', 'Real-time systems', 'Regulated systems'];
+}
 
+const useAbdurRahimKhan = (): Developer => {
+  // Drawn to problems with real constraints — regulatory compliance,
+  // real-time collaboration, multi-tenant systems — where understanding
+  // *why* something needs to work a certain way matters as much as building it.
+  //
+  // Currently: turning messy requirements into interfaces that don't
+  // come back to haunt anyone at 2AM.
 
-## :floppy_disk: Databases
-[<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50px" alt="Firebase">](https://firebase.google.com/)&nbsp;&nbsp;&nbsp;[<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="50px" alt="MongoDB">](https://www.mongodb.com/)&nbsp;&nbsp;&nbsp;[<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="50px" alt="MySQL">](https://www.mysql.com/)&nbsp;&nbsp;&nbsp;[<img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="50px" alt="Oracle">](https://www.oracle.com/)
+  return {
+    name: 'Abdur Rahim Khan',
+    location: 'Karachi, Pakistan',
+    experience: '3+ years',
+    focus: ['React', 'TypeScript', 'Next.js', 'Real-time systems', 'Regulated systems'],
+  };
+};
+```
 
-## :wrench: Tools
-[<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="50px" alt="VSCode">](https://code.visualstudio.com/)&nbsp;&nbsp;&nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" width="50px" alt="IntelliJ">](https://www.jetbrains.com/idea/)&nbsp;&nbsp;&nbsp;[<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50px" alt="Figma">](https://www.figma.com/)&nbsp;&nbsp;&nbsp;[<img src="https://www.vectorlogo.zone/logos/balsamiq/balsamiq-icon.svg" width="50px" alt="Balsamiq">](https://balsamiq.com/)&nbsp;&nbsp;&nbsp;[<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50px" alt="Postman">](https://www.postman.com/)&nbsp;&nbsp;&nbsp;[<img src="https://www.umlet.com/pic/UMLet_logo_small.png" width="50px" alt="Umlet">]([https://code.visualstudio.com/](https://www.umlet.com/))&nbsp;&nbsp;&nbsp;[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" width="50px" alt="PowerBI">](https://powerbi.microsoft.com/en-au/)&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="50px" alt="Tableau">](https://www.tableau.com/)&nbsp;&nbsp;&nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Qlik_Logo.svg/2560px-Qlik_Logo.svg.png" width="150px" height="50px" alt="Qlik">](https://www.qlik.com/us/)&nbsp;&nbsp;&nbsp;[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/KNIMELogoTM.png" width="150px" height="50px" alt="KNIME">](https://www.knime.com/)&nbsp;&nbsp;&nbsp;[<img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="50px" alt="Json">](https://www.json.org/json-en.html)&nbsp;&nbsp;&nbsp;
+<br>
 
-## My Flutter Projects
-### ExploreEase - Traveler Side
-![Alt Text](https://user-images.githubusercontent.com/69311087/216892016-8d3155da-0551-43a8-9f91-d2a6ec9ad123.png)
-### ExploreEase - Agency Side
-![Alt Text](https://i.imgur.com/34NcW1G.jpg)
-![Alt Text](https://i.imgur.com/0jLaXPx.jpg)
+## `git log --oneline` — Experience
 
-## :information_source: My GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akhan19760&theme=dracula)](https://git.io/streak-stats)
+<table width="100%">
+<tr><td width="140" valign="top"><b>Sep 2025 — Present</b></td>
+<td>
 
-![Abdur Rahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhan19760&show_icons=true&theme=dracula)
+**Software Consultant** · Qatar Datamation Systems *(Contract, Remote)*
+Frontend for the Government of Qatar's SCEAI platform — real-time audit dashboards with Yjs collaboration, type-safe paginated APIs, and lazy-loaded components that lifted UX performance 30–40% on high-volume datasets.
 
-<!--
-**akhan19760/akhan19760** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</td></tr>
+<tr><td valign="top"><b>Jun 2025 — Sep 2025</b></td>
+<td>
 
-Here are some ideas to get you started:
+**Technical Consultant** · Veraqor → Government of Qatar (SCEAI)
+Architected 9 core frontend modules (React, TypeScript, Zustand, Redux Toolkit), cut load times ~25%, and shipped real-time dashboards over SignalR/SSE with sub-second updates. Delivered 366 hours in 6 weeks against a 200-hour plan — the only bug-free modules at a national production deadline.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</td></tr>
+<tr><td valign="top"><b>Jul 2023 — Jun 2025</b></td>
+<td>
+
+**Associate Consultant** · Veraqor
+Built a multi-tenant, multilingual LMS for Kazakhstan's Ministry of Education (real-time exam state, JWT auth, 40% fewer redundant requests) and led frontend for an AI protocoling suite with live EN/KZ/RU transcription via the Whisper API.
+
+</td></tr>
+</table>
+
+<br>
+
+## `export const projects`
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ AccurateSpend — Compliance SaaS
+Frontend for a federal compliance platform automating CMS Open Payments (Sunshine Act) reporting across 8 modules, on a 60+ component design system. Built a client-side validation engine against CMS rules plus a correction workspace with CSV export. Migrated the app from Next.js to TanStack Start mid-project without losing in-flight work.
+
+`React` `TypeScript` `TanStack Start/Query` `Zustand` `Radix UI` `Orval`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚖️ KunARCHGPT — Legal AI Chatbot
+AI chatbot answering UK architectural-law queries with context-aware generative responses. Tiered Stripe subscriptions, Google/Microsoft OAuth, and an analytics dashboard for tracking usage.
+
+`React.js` `OpenAI API` `Stripe` `OAuth 2.0` `Material UI` `ECharts`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## `npm ls` — Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=0175C2" />
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Shadcn/ui-0D1117?style=for-the-badge&logo=shadcnui&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Ant_Design-0D1117?style=for-the-badge&logo=antdesign&logoColor=1677FF" />
+<img src="https://img.shields.io/badge/Material_UI-0D1117?style=for-the-badge&logo=mui&logoColor=007FFF" />
+<img src="https://img.shields.io/badge/GSAP-0D1117?style=for-the-badge&logo=greensock&logoColor=88CE02" />
+<img src="https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=02569B" />
+
+**State & API**
+
+<img src="https://img.shields.io/badge/React_Query-0D1117?style=for-the-badge&logo=reactquery&logoColor=FF4154" />
+<img src="https://img.shields.io/badge/Zustand-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Redux-0D1117?style=for-the-badge&logo=redux&logoColor=764ABC" />
+<img src="https://img.shields.io/badge/Axios-0D1117?style=for-the-badge&logo=axios&logoColor=5A29E4" />
+<img src="https://img.shields.io/badge/OpenAPI/Swagger-0D1117?style=for-the-badge&logo=swagger&logoColor=85EA2D" />
+
+**Auth, Charts & AI**
+
+<img src="https://img.shields.io/badge/Azure_MSAL-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" />
+<img src="https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=jsonwebtokens&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/ECharts-0D1117?style=for-the-badge&logo=apacheecharts&logoColor=AA344D" />
+<img src="https://img.shields.io/badge/ApexCharts-0D1117?style=for-the-badge&logo=chartdotjs&logoColor=FF4560" />
+<img src="https://img.shields.io/badge/OpenAI_API-0D1117?style=for-the-badge&logo=openai&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Whisper_API-0D1117?style=for-the-badge&logo=openai&logoColor=ffffff" />
+
+**Databases & Tools**
+
+<img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+<img src="https://img.shields.io/badge/SQL_Server-0D1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" />
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+<img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+
+</div>
+
+<br>
+
+## `git log --stat` — GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=akhan19760&show_icons=true&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=3178C6&text_color=C9D1D9&ring_color=3178C6" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akhan19760&hide_border=true&background=0D1117&stroke=3178C6&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhan19760&layout=compact&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&langs_count=8" height="165" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+*Type-checked, lint-clean, and always shipped before the deadline. 🚀*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:3178C6&height=100&section=footer" width="100%"/>
+
+</div>
