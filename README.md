@@ -3,7 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3178C6,100:61DAFB&height=230&section=header&text=Abdur%20Rahim%20Khan&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Engineer%20%E2%80%A2%20React%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Real-Time%20Systems&descSize=17&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=61DAFB&center=true&vCenter=true&width=720&lines=I+turn+messy+requirements+into+production+software.;React+%2B+TypeScript+%2B+real-time+systems.;Building+interfaces+for+government%2C+compliance+%26+AI.;Sometimes+the+API+changes+on+Friday.+We+ship+anyway.;میں+ایک+فرنٹ+اینڈ+انجینئر+ہوں." alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=61DAFB&center=true&vCenter=true&width=720&lines=I+turn+messy+requirements+into+production+software.;React+%2B+TypeScript+%2B+real-time+systems.;Building+interfaces+for+government%2C+compliance+%26+AI.;Sometimes+the+API+changes+on+Friday.+We+ship+anyway."
+    alt="Typing SVG"
+  />
 </a>
 
 <br/>
