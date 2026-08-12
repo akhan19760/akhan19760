@@ -1,211 +1,448 @@
-# Abdur Rahim Khan
+<div align="center">
 
-### Frontend Engineer · React · TypeScript
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3178C6,100:61DAFB&height=230&section=header&text=Abdur%20Rahim%20Khan&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Engineer%20%E2%80%A2%20React%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Real-Time%20Systems&descSize=17&descAlignY=55&animation=fadeIn" width="100%"/>
 
-I build production-grade web applications where the hard part isn't writing the UI — it's making complex requirements, real-time data, authentication, performance, and constantly changing business rules work together.
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=61DAFB&center=true&vCenter=true&width=720&lines=I+turn+messy+requirements+into+production+software.;React+%2B+TypeScript+%2B+real-time+systems.;Building+interfaces+for+government%2C+compliance+%26+AI.;Sometimes+the+API+changes+on+Friday.+We+ship+anyway.;میں+ایک+فرنٹ+اینڈ+انجینئر+ہوں." alt="Typing SVG" />
+</a>
 
-I have 3+ years of experience building frontend systems for government, education, compliance, and AI-driven products.
+<br/>
 
-[LinkedIn](https://www.linkedin.com/in/khanabdur/) · [Email](mailto:kabdurrahim706@gmail.com)
+<a href="https://www.linkedin.com/in/khanabdur/">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=61DAFB"/>
+</a>
+<a href="mailto:kabdurrahim706@gmail.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+<a href="https://github.com/akhan19760">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=akhan19760&style=flat-square&color=3178C6&label=PROFILE+VIEWS"/>
+
+</div>
 
 ---
 
-## What I Build
+## 👋 Hey, I'm Abdur Rahim
 
-* **Complex React applications** with large data sets, multi-step workflows, and role-based access
-* **Real-time interfaces** using SignalR, SSE, and collaborative state
-* **Data-heavy dashboards** with performance-conscious rendering and API orchestration
-* **Regulated software** where correctness and validation matter as much as UX
-* **AI-powered products** involving conversational interfaces, transcription, and intelligent workflows
+I'm a **Frontend Engineer with 3+ years of experience** building production applications with React and TypeScript.
 
-I enjoy working on the problems that appear *after* the basic CRUD application has already been built.
+Most of my work sits at the intersection of:
+
+**complex requirements × large datasets × real-time systems × users who don't have time for broken software.**
+
+I've worked on software for **government, education, compliance and AI-driven products**, including systems where performance, permissions, data correctness and rapidly changing requirements all matter at the same time.
+
+I like taking something that initially looks like:
+
+> *"This is going to be complicated."*
+
+and turning it into:
+
+> *"Okay, this actually makes sense."*
 
 ---
 
-## Selected Work
+# 🚀 Things I've Built
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🛡️ AccurateSpend
 
-**Compliance SaaS · React · TypeScript · TanStack Start**
+**Compliance SaaS**
 
-Frontend for a federal compliance platform handling CMS Open Payments reporting.
+A frontend platform for automating **CMS Open Payments / Sunshine Act reporting**.
 
-* Built 8 major application modules on top of a 60+ component design system
-* Implemented client-side validation against CMS reporting rules
-* Built a correction workspace with CSV export workflows
-* Migrated the application from Next.js to TanStack Start during active development
-* Used TanStack Query, Zustand and Orval for data fetching and API integration
+**Highlights**
 
-**What interested me:** building software where incorrect data isn't just a UI bug — it can become a compliance problem.
+* 8 major application modules
+* 60+ component design system
+* Client-side CMS validation engine
+* Correction & review workspace
+* CSV workflows
+* Next.js → **TanStack Start** migration
 
----
+`React` `TypeScript` `TanStack Start` `Zustand` `Orval`
+
+</td>
+
+<td width="50%" valign="top">
 
 ### ⚖️ KunARCHGPT
 
-**Legal AI · React · OpenAI · Stripe**
+**Legal AI**
 
-An AI application for answering UK architectural-law questions through contextual conversations.
+AI-powered assistant for answering **UK architectural-law questions**.
 
-* Built the conversational frontend and analytics experience
-* Integrated OpenAI-powered responses
-* Implemented subscription flows with Stripe
-* Added Google/Microsoft OAuth authentication
-* Built usage analytics with interactive data visualizations
+**Highlights**
 
-**What interested me:** designing a useful interface around probabilistic AI rather than treating an LLM as just another API endpoint.
+* Context-aware AI conversations
+* OpenAI integration
+* Stripe subscriptions
+* Google & Microsoft OAuth
+* Usage analytics
+* Interactive dashboards
 
----
+`React` `OpenAI` `Stripe` `OAuth` `ECharts`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🏛️ SCEAI Platform
 
-**Government of Qatar · React · TypeScript · Real-time systems**
+**Government of Qatar**
 
-Frontend development for a large-scale economic affairs platform.
+Large-scale economic affairs platform with complex dashboards, permissions and real-time updates.
 
-* Architected and delivered 9 core frontend modules
-* Built dashboards handling high-volume datasets
-* Implemented real-time updates using SignalR and Server-Sent Events
-* Integrated Azure MSAL authentication and role-based access control
-* Used React Query for parallel API orchestration
-* Improved application load performance by approximately 25%
-* Built collaborative functionality using Yjs
-* Worked against rapidly changing requirements and production deadlines
+**Highlights**
 
-One of the most valuable lessons from this project:
+* 9 core frontend modules
+* SignalR + SSE
+* Azure MSAL
+* RBAC
+* High-volume datasets
+* React Query orchestration
+* ~25% load-time improvement
 
-> Good frontend engineering isn't just about making the interface work. It's about making it continue to work when the requirements, data, users, and constraints change.
+`React` `TypeScript` `SignalR` `SSE`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎓 Kazakhstan LMS
+
+**Ministry of Education**
+
+Multi-tenant multilingual learning platform designed around real-time examination workflows.
+
+**Highlights**
+
+* Multi-tenant architecture
+* Multilingual UI
+* Real-time exam state
+* JWT authentication
+* Reduced redundant API requests
+* High-volume administrative workflows
+
+`React` `TypeScript` `JWT` `React Query`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## Experience
+# ⚡ What I Like Building
 
-**Software / Technical Consultant — Qatar Datamation Systems / Veraqor**
-*2023 — Present*
+<table>
+<tr>
+<td align="center" width="25%">
 
-Worked across enterprise applications for government, education, compliance, and AI-focused products.
+### ⚛️
 
-Previously built:
+**React Systems**
 
-* A multilingual, multi-tenant LMS for Kazakhstan's Ministry of Education
-* Real-time examination workflows
-* JWT-based authentication and authorization
-* An AI protocoling platform with live English/Kazakh/Russian transcription
-* Large-scale dashboards and data-heavy administrative interfaces
+Scalable component architecture, state management and data-heavy interfaces.
+
+</td>
+
+<td align="center" width="25%">
+
+### 📡
+
+**Real-Time UX**
+
+SignalR, SSE, collaborative state and live dashboards.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**AI Products**
+
+LLM interfaces, streaming responses, transcription and AI workflows.
+
+</td>
+
+<td align="center" width="25%">
+
+### 📊
+
+**Data-Heavy UI**
+
+Dashboards, visualization, tables and performance-sensitive interfaces.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Engineering Interests
+# 🧠 Engineering Highlights
+
+### 01 — Making large applications feel smaller
+
+I've worked with applications containing large datasets, complex workflows and many API dependencies.
+
+The goal isn't simply:
 
 ```text
-Frontend Architecture
-├── React + TypeScript
-├── Component architecture
-├── State management
-├── API/data orchestration
-└── Performance
-
-Real-Time Systems
-├── SignalR
-├── Server-Sent Events
-├── Collaborative state
-└── Optimistic UI
-
-Application Security
-├── Azure MSAL
-├── JWT
-├── RBAC
-└── Permission-aware UI
-
-AI Applications
-├── LLM-powered interfaces
-├── Streaming responses
-├── Transcription
-└── Human-in-the-loop workflows
+"make the API call"
 ```
 
----
-
-## Core Stack
-
-**Languages**
-
-TypeScript · JavaScript · HTML · CSS
-
-**Frontend**
-
-React · Next.js · TanStack Start · TanStack Query · Tailwind CSS
-
-**State & Data**
-
-Zustand · Redux Toolkit · Axios · OpenAPI · Orval
-
-**Real-Time & Auth**
-
-SignalR · SSE · Yjs · Azure MSAL · JWT
-
-**UI & Visualization**
-
-Radix UI · Ant Design · Material UI · ECharts · ApexCharts
-
-**AI**
-
-OpenAI API · Whisper API
-
-**Infrastructure & Tools**
-
-Git · Docker · Firebase · SQL Server · Azure · Postman · Figma
-
----
-
-## How I Approach Problems
-
-I tend to enjoy projects where the requirements aren't perfectly defined.
-
-Real projects rarely arrive as:
-
-> "Here's a complete specification. Please implement it."
-
-They're usually closer to:
-
-> "We need this by Friday, the API changed yesterday, three different users need different permissions, and the data can sometimes be enormous."
-
-That's where I do my best work.
-
-I care about:
-
-* Understanding the actual problem before choosing an abstraction
-* Keeping frontend architecture understandable as applications grow
-* Making data-heavy interfaces feel fast
-* Designing for failure instead of assuming APIs always behave
-* Treating accessibility, security and correctness as engineering concerns
-* Shipping practical solutions under real constraints
-
----
-
-## Currently
-
-* Deepening my understanding of frontend architecture and browser fundamentals
-* Exploring modern React patterns and TanStack Start
-* Building AI-assisted developer tools and practical side projects
-* Improving system design and full-stack understanding
-
----
-
-## A Few Things You'll Find in My Repositories
+It's:
 
 ```text
-✓ Production-oriented React applications
-✓ Experiments with new frontend architecture
-✓ AI integrations
-✓ Real-time systems
-✓ Developer tooling
-✓ Small projects built to understand a concept properly
+fetch → cache → orchestrate → render → update
+                 ↓
+           without freezing
+                 ↓
+              the UI
 ```
 
-If something here looks interesting, feel free to explore the repositories.
+I've used **React Query, lazy loading, parallel requests, memoization and component-level optimization** to keep complex interfaces responsive.
 
 ---
 
-### Let's build something useful.
+### 02 — Real-time without turning the UI into chaos
 
-[LinkedIn](https://www.linkedin.com/in/khanabdur/) · [GitHub](https://github.com/akhan19760) · [Email](mailto:kabdurrahim706@gmail.com)
+I've worked with:
+
+```text
+SignalR
+   │
+   ├── notifications
+   ├── live dashboards
+   └── application state
+
+SSE
+   │
+   └── streaming updates
+
+Yjs
+   │
+   └── collaborative state
+```
+
+Real-time features are easy to demo.
+
+Making them behave correctly alongside React state, caching, optimistic updates and user permissions is the interesting part.
+
+---
+
+### 03 — When requirements change overnight
+
+I've worked in environments where requirements don't politely wait for the sprint to finish.
+
+Sometimes:
+
+```text
+Monday
+↓
+"Here's the requirement."
+
+Wednesday
+↓
+"Small change."
+
+Thursday
+↓
+"Actually, completely different."
+
+Friday
+↓
+"Can we ship this?"
+```
+
+The answer has usually been:
+
+**yes.**
+
+That's taught me to value **clear architecture without over-engineering**, because software has to survive change.
+
+---
+
+# 🧰 My Toolbox
+
+<div align="center">
+
+### Core
+
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs"/>
+
+### Data & State
+
+<img src="https://skillicons.dev/icons?i=redux"/>
+
+`TanStack Query` · `Zustand` · `Axios` · `OpenAPI` · `Orval`
+
+### UI & Visualization
+
+`Tailwind CSS` · `Radix UI` · `Ant Design` · `Material UI` · `ECharts` · `ApexCharts`
+
+### Real-Time & Authentication
+
+`SignalR` · `SSE` · `Yjs` · `Azure MSAL` · `JWT`
+
+### AI
+
+<img src="https://skillicons.dev/icons?i=openai"/>
+
+`OpenAI API` · `Whisper API`
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,docker,azure,firebase,figma,postman"/>
+
+</div>
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=akhan19760&show_icons=true&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=3178C6&text_color=C9D1D9&ring_color=3178C6&include_all_commits=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akhan19760&hide_border=true&background=0D1117&stroke=3178C6&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB&sideLabels=C9D1D9&dates=8B949E" height="180"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhan19760&layout=compact&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&langs_count=8&hide=css,html" height="180"/>
+
+</div>
+
+---
+
+# 📊 A Few Numbers
+
+<div align="center">
+
+|  🧩 |   **9**  | Core frontend modules                             |
+| :-: | :------: | :------------------------------------------------ |
+|  ⚡  | **~25%** | Load-time improvement                             |
+|  ⏱️ | **366h** | Delivered in 6 weeks against a 200h plan          |
+|  🌍 |  **3+**  | Years building production software                |
+| 🏛️ |   **4**  | Domains: Government · Education · Compliance · AI |
+
+</div>
+
+---
+
+# 🔭 Currently Exploring
+
+```text
+React Architecture
+        ↓
+TanStack Start
+        ↓
+Modern TypeScript
+        ↓
+AI-assisted development
+        ↓
+Full-stack architecture
+        ↓
+Building products of my own
+```
+
+I'm particularly interested in the space where **AI meets developer tooling and real-world productivity**.
+
+Not another ChatGPT wrapper.
+
+Something people would actually keep installed.
+
+---
+
+# 💻 Beyond The Framework
+
+I care a lot about the fundamentals underneath React:
+
+**JavaScript → Browser → Network → HTTP → APIs → Database → Infrastructure**
+
+Because when something breaks in production, the answer isn't always:
+
+> "Maybe React needs another `useMemo()`."
+
+Sometimes the problem is the network.
+
+Sometimes it's the API.
+
+Sometimes it's caching.
+
+Sometimes the database is doing something ridiculous.
+
+And sometimes...
+
+```text
+the developer forgot to check null.
+```
+
+We've all been there.
+
+---
+
+# 🏗️ What You'll Find Here
+
+```text
+┌──────────────────────────────────────────┐
+│                                          │
+│   Production-minded applications        │
+│                                          │
+│   ⚛️ React experiments                   │
+│   🤖 AI-powered projects                 │
+│   📡 Real-time systems                   │
+│   🧠 Architecture experiments            │
+│   🛠️ Developer tooling                   │
+│   📚 Things I'm learning                 │
+│                                          │
+└──────────────────────────────────────────┘
+```
+
+Some repositories are polished products.
+
+Some are experiments.
+
+Some exist because I wanted to understand **how something actually works**.
+
+All of them are part of the process.
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+**Interested in building something difficult?**
+
+<a href="https://www.linkedin.com/in/khanabdur/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-3178C6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kabdurrahim706@gmail.com">
+<img src="https://img.shields.io/badge/Email-Say%20Hello-61DAFB?style=for-the-badge&logo=gmail&logoColor=0D1117"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:3178C6&height=100&section=footer" width="100%"/>
+
+</div>
