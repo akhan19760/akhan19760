@@ -1,98 +1,126 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3178C6,100:61DAFB&height=230&section=header&text=Abdur%20Rahim%20Khan&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Engineer%20%E2%80%A2%20React%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Real-Time%20Systems&descSize=17&descAlignY=55&animation=fadeIn" width="100%"/>
+<!-- HERO -->
 
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=61DAFB&center=true&vCenter=true&width=720&lines=I+turn+messy+requirements+into+production+software.;React+%2B+TypeScript+%2B+real-time+systems.;Building+interfaces+for+government%2C+compliance+%26+AI.;Sometimes+the+API+changes+on+Friday.+We+ship+anyway."
-    alt="Typing SVG"
-  />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:172554,100:2563EB&height=240&section=header&text=ABDUR%20RAHIM%20KHAN&fontSize=46&fontColor=FFFFFF&fontAlignY=35&desc=FRONTEND%20ENGINEER%20%E2%80%A2%20REACT%20%E2%80%A2%20TYPESCRIPT%20%E2%80%A2%20AI&descSize=17&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/khanabdur/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=61DAFB"/>
-</a>
-<a href="mailto:kabdurrahim706@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-<a href="https://github.com/akhan19760">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<a href="https://readme-typing-svg.demolab.com/?lines=Building+interfaces+for+complex+problems.;React+%2B+TypeScript+%2B+Real-Time+Systems.;Government+%7C+Compliance+%7C+Education+%7C+AI.;Turning+messy+requirements+into+software+that+works.">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=61DAFB&center=true&vCenter=true&width=850&height=55&lines=Building+interfaces+for+complex+problems.;React+%2B+TypeScript+%2B+Real-Time+Systems.;Government+%7C+Compliance+%7C+Education+%7C+AI.;Turning+messy+requirements+into+software+that+works." alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=akhan19760&style=flat-square&color=3178C6&label=PROFILE+VIEWS"/>
+<a href="https://github.com/akhan19760">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
+<a href="https://www.linkedin.com/in/khanabdur/">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+<a href="mailto:kabdurrahim706@gmail.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=akhan19760&label=PROFILE+VIEWS&color=2563EB&style=flat-square" />
 
 </div>
 
 ---
 
-## 👋 Hey, I'm Abdur Rahim
+<div align="center">
 
-I'm a **Frontend Engineer with 3+ years of experience** building production applications with React and TypeScript.
+### `Frontend Engineer` · `React` · `TypeScript` · `Real-Time` · `AI`
 
-Most of my work sits at the intersection of:
+**3+ years building production software across government, education, compliance and AI.**
 
-**complex requirements × large datasets × real-time systems × users who don't have time for broken software.**
+</div>
 
-I've worked on software for **government, education, compliance and AI-driven products**, including systems where performance, permissions, data correctness and rapidly changing requirements all matter at the same time.
+<br/>
 
-I like taking something that initially looks like:
+## 🧑‍💻 About Me
 
-> *"This is going to be complicated."*
+I'm a frontend engineer who enjoys the part of software development where things stop being simple.
 
-and turning it into:
+Large datasets.
+Real-time updates.
+Role-based permissions.
+Multilingual interfaces.
+AI-powered workflows.
+APIs that change halfway through development.
 
-> *"Okay, this actually makes sense."*
+That's where I tend to do my best work.
+
+I've worked on production systems for organizations including the **Government of Qatar** and Kazakhstan's **Ministry of Education**, while also building SaaS and AI products independently.
+
+My core stack revolves around **React + TypeScript**, but I care just as much about the engineering underneath the UI — browser behavior, networking, API design, state management, performance and system architecture.
 
 ---
 
-# 🚀 Things I've Built
+# 🚀 Selected Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🛡️ AccurateSpend
+<h3>🛡️ AccurateSpend</h3>
 
-**Compliance SaaS**
+<b>Compliance SaaS</b>
 
-A frontend platform for automating **CMS Open Payments / Sunshine Act reporting**.
+A compliance platform for automating CMS Open Payments / Sunshine Act reporting.
 
-**Highlights**
+<br/><br/>
+
+<b>Built:</b>
 
 * 8 major application modules
 * 60+ component design system
-* Client-side CMS validation engine
+* CMS rule validation engine
 * Correction & review workspace
-* CSV workflows
-* Next.js → **TanStack Start** migration
+* CSV import/export workflows
+* Next.js → TanStack Start migration
+* Generated type-safe API clients
 
-`React` `TypeScript` `TanStack Start` `Zustand` `Orval`
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,ts,nextjs" />
+
+<br/>
+
+`TanStack Start` · `TanStack Query` · `Zustand` · `Orval` · `Radix UI`
 
 </td>
 
 <td width="50%" valign="top">
 
-### ⚖️ KunARCHGPT
+<h3>⚖️ KunARCHGPT</h3>
 
-**Legal AI**
+<b>Legal AI Platform</b>
 
-AI-powered assistant for answering **UK architectural-law questions**.
+AI-powered assistant for answering UK architectural-law questions.
 
-**Highlights**
+<br/><br/>
+
+<b>Built:</b>
 
 * Context-aware AI conversations
 * OpenAI integration
+* Streaming AI experience
 * Stripe subscriptions
 * Google & Microsoft OAuth
 * Usage analytics
 * Interactive dashboards
 
-`React` `OpenAI` `Stripe` `OAuth` `ECharts`
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,ts,openai" />
+
+<br/>
+
+`OpenAI API` · `Stripe` · `OAuth 2.0` · `ECharts` · `Material UI`
 
 </td>
 
@@ -102,44 +130,62 @@ AI-powered assistant for answering **UK architectural-law questions**.
 
 <td width="50%" valign="top">
 
-### 🏛️ SCEAI Platform
+<h3>🏛️ SCEAI Platform</h3>
 
-**Government of Qatar**
+<b>Government of Qatar</b>
 
-Large-scale economic affairs platform with complex dashboards, permissions and real-time updates.
+Large-scale economic affairs platform with dashboards, permissions and real-time updates.
 
-**Highlights**
+<br/><br/>
+
+<b>Built:</b>
 
 * 9 core frontend modules
-* SignalR + SSE
-* Azure MSAL
-* RBAC
-* High-volume datasets
-* React Query orchestration
-* ~25% load-time improvement
+* SignalR real-time updates
+* SSE streaming
+* Azure MSAL authentication
+* Role-based access control
+* React Query data orchestration
+* High-volume data interfaces
+* Collaborative functionality with Yjs
 
-`React` `TypeScript` `SignalR` `SSE`
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,ts,azure" />
+
+<br/>
+
+`SignalR` · `SSE` · `Yjs` · `Zustand` · `Redux Toolkit`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🎓 Kazakhstan LMS
+<h3>🎓 Kazakhstan LMS</h3>
 
-**Ministry of Education**
+<b>Ministry of Education</b>
 
-Multi-tenant multilingual learning platform designed around real-time examination workflows.
+Multi-tenant multilingual learning platform with real-time examination workflows.
 
-**Highlights**
+<br/><br/>
+
+<b>Built:</b>
 
 * Multi-tenant architecture
 * Multilingual UI
 * Real-time exam state
 * JWT authentication
+* Permission-aware workflows
 * Reduced redundant API requests
-* High-volume administrative workflows
+* Large administrative dashboards
 
-`React` `TypeScript` `JWT` `React Query`
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,ts,firebase" />
+
+<br/>
+
+`React Query` · `JWT` · `Axios` · `REST APIs`
 
 </td>
 
@@ -148,17 +194,20 @@ Multi-tenant multilingual learning platform designed around real-time examinatio
 
 ---
 
-# ⚡ What I Like Building
+# ⚡ What I Actually Enjoy Building
+
+<div align="center">
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 
 ### ⚛️
 
-**React Systems**
+**Complex React Apps**
 
-Scalable component architecture, state management and data-heavy interfaces.
+Large applications that need architecture, not just components.
 
 </td>
 
@@ -166,9 +215,9 @@ Scalable component architecture, state management and data-heavy interfaces.
 
 ### 📡
 
-**Real-Time UX**
+**Real-Time Systems**
 
-SignalR, SSE, collaborative state and live dashboards.
+Live dashboards, collaborative state and streaming updates.
 
 </td>
 
@@ -178,7 +227,7 @@ SignalR, SSE, collaborative state and live dashboards.
 
 **AI Products**
 
-LLM interfaces, streaming responses, transcription and AI workflows.
+Interfaces where AI actually solves a user problem.
 
 </td>
 
@@ -188,250 +237,374 @@ LLM interfaces, streaming responses, transcription and AI workflows.
 
 **Data-Heavy UI**
 
-Dashboards, visualization, tables and performance-sensitive interfaces.
+Dashboards, tables and visualization without making the browser cry.
 
 </td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🧠 Engineering Philosophy
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  Requirements                                               │
+│       │                                                     │
+│       ▼                                                     │
+│  Understand the problem                                    │
+│       │                                                     │
+│       ▼                                                     │
+│  Design the simplest architecture that can survive change  │
+│       │                                                     │
+│       ▼                                                     │
+│  Build → Measure → Refactor                                 │
+│       │                                                     │
+│       ▼                                                     │
+│  Ship                                                        │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+I don't believe every application needs a complicated architecture.
+
+I do believe applications become complicated eventually — and good engineering means knowing **where that complexity belongs**.
+
+---
+
+# 🧰 Technology Stack
+
+## Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,dart" />
+
+</div>
+
+---
+
+## Frontend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=flutter" />
+
+</div>
+
+**React** · **Next.js** · **TanStack Start** · **Vite** · **Tailwind CSS** · **Flutter**
+
+---
+
+## State & Data
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=redux" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react,ts" />
+
+</div>
+
+**TanStack Query** · **Zustand** · **Redux Toolkit** · **Axios** · **OpenAPI** · **Orval**
+
+---
+
+## UI & Visualization
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=figma" />
+
+<br/><br/>
+
+`Radix UI` · `Ant Design` · `Material UI` · `ECharts` · `ApexCharts` · `GSAP`
+
+</div>
+
+---
+
+## Real-Time & Authentication
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=azure" />
+
+</div>
+
+**SignalR** · **Server-Sent Events** · **Yjs** · **Azure MSAL** · **JWT**
+
+---
+
+## AI
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=openai" />
+
+</div>
+
+**OpenAI API** · **Whisper API** · **LLM-powered interfaces** · **Streaming AI**
+
+---
+
+## Backend & Infrastructure
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mssql,docker,azure" />
+
+</div>
+
+**Node.js** · **Express** · **Firebase** · **SQL Server** · **Docker** · **Azure**
+
+---
+
+## Development Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+
+</div>
+
+**Git** · **GitHub** · **VS Code** · **Postman** · **Figma** · **Swagger / OpenAPI**
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/akhan19760">
+
+<img src="https://github-readme-stats.vercel.app/api?username=akhan19760&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=3178C6&text_color=C9D1D9&ring_color=3178C6" height="180" alt="GitHub Statistics"/>
+
+</a>
+
+<a href="https://github.com/akhan19760">
+
+<img src="https://streak-stats.demolab.com?user=akhan19760&theme=github-dark-blue&hide_border=true&background=0D1117&ring=61DAFB&fire=3178C6&currStreakLabel=61DAFB" height="180" alt="GitHub Contribution Streak"/>
+
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/akhan19760">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhan19760&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&hide=html,css" height="170" alt="Top Languages"/>
+
+</a>
+
+</div>
+
+---
+
+# 📊 By The Numbers
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+
+<h2>3+</h2>
+
+Years Experience
+
+</td>
+
+<td align="center">
+
+<h2>9</h2>
+
+Core Modules
+
+</td>
+
+<td align="center">
+
+<h2>~25%</h2>
+
+Load-Time Improvement
+
+</td>
+
+<td align="center">
+
+<h2>366h</h2>
+
+Delivered / 6 Weeks
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🔥 Currently Building
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,ts,nodejs,docker,openai" />
+
+<br/><br/>
+
+### Developer-focused AI tools
+
+I'm exploring the intersection of:
+
+**AI × Developer Experience × Knowledge × Automation**
+
+The goal isn't another wrapper around an LLM.
+
+The goal is building tools that genuinely make developers **faster, better informed and more productive.**
+
+</div>
+
+---
+
+# 🧪 Things I'm Currently Exploring
+
+```text
+React Architecture
+        │
+        ├── TanStack Start
+        ├── Server-side rendering
+        └── Performance
+
+AI Engineering
+        │
+        ├── LLM applications
+        ├── Streaming
+        ├── Tool calling
+        └── Knowledge graphs
+
+System Design
+        │
+        ├── API architecture
+        ├── Real-time systems
+        ├── Caching
+        └── Distributed systems
+
+Developer Experience
+        │
+        ├── AI-assisted development
+        ├── Developer tooling
+        └── Automation
+```
+
+---
+
+# 🏆 Professional Highlights
+
+<table>
+<tr>
+
+<td>
+
+### 🏛️ Government
+
+Built production frontend systems for the **Government of Qatar**, including dashboards, RBAC and real-time functionality.
+
+</td>
+
+<td>
+
+### 🌍 International
+
+Worked on software for organizations across **Qatar and Kazakhstan**.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### ⚡ Performance
+
+Improved application load performance by approximately **25%** while working with large data-driven interfaces.
+
+</td>
+
+<td>
+
+### 🚀 Delivery
+
+Delivered **366 hours of work across 6 weeks** against a planned 200-hour allocation.
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-# 🧠 Engineering Highlights
-
-### 01 — Making large applications feel smaller
-
-I've worked with applications containing large datasets, complex workflows and many API dependencies.
-
-The goal isn't simply:
+# 🧩 How I Think About Frontend
 
 ```text
-"make the API call"
+                    ┌───────────────┐
+                    │    USER       │
+                    └───────┬───────┘
+                            │
+                            ▼
+                  ┌───────────────────┐
+                  │        UI         │
+                  └─────────┬─────────┘
+                            │
+             ┌──────────────┼──────────────┐
+             ▼              ▼              ▼
+        State           Network         Browser
+             │              │              │
+             ▼              ▼              ▼
+        Cache/API       REST/SSE        Rendering
+             │              │              │
+             └──────────────┼──────────────┘
+                            ▼
+                     ┌─────────────┐
+                     │   Backend   │
+                     └─────────────┘
 ```
 
-It's:
+A frontend isn't just components.
 
-```text
-fetch → cache → orchestrate → render → update
-                 ↓
-           without freezing
-                 ↓
-              the UI
-```
+It's a system sitting between **people, browsers, networks and backend services**.
 
-I've used **React Query, lazy loading, parallel requests, memoization and component-level optimization** to keep complex interfaces responsive.
+That's the part I find interesting.
 
 ---
 
-### 02 — Real-time without turning the UI into chaos
-
-I've worked with:
-
-```text
-SignalR
-   │
-   ├── notifications
-   ├── live dashboards
-   └── application state
-
-SSE
-   │
-   └── streaming updates
-
-Yjs
-   │
-   └── collaborative state
-```
-
-Real-time features are easy to demo.
-
-Making them behave correctly alongside React state, caching, optimistic updates and user permissions is the interesting part.
-
----
-
-### 03 — When requirements change overnight
-
-I've worked in environments where requirements don't politely wait for the sprint to finish.
-
-Sometimes:
-
-```text
-Monday
-↓
-"Here's the requirement."
-
-Wednesday
-↓
-"Small change."
-
-Thursday
-↓
-"Actually, completely different."
-
-Friday
-↓
-"Can we ship this?"
-```
-
-The answer has usually been:
-
-**yes.**
-
-That's taught me to value **clear architecture without over-engineering**, because software has to survive change.
-
----
-
-# 🧰 My Toolbox
+# 📚 What You'll Find In My Repositories
 
 <div align="center">
 
-### Core
-
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs"/>
-
-### Data & State
-
-<img src="https://skillicons.dev/icons?i=redux"/>
-
-`TanStack Query` · `Zustand` · `Axios` · `OpenAPI` · `Orval`
-
-### UI & Visualization
-
-`Tailwind CSS` · `Radix UI` · `Ant Design` · `Material UI` · `ECharts` · `ApexCharts`
-
-### Real-Time & Authentication
-
-`SignalR` · `SSE` · `Yjs` · `Azure MSAL` · `JWT`
-
-### AI
-
-<img src="https://skillicons.dev/icons?i=openai"/>
-
-`OpenAI API` · `Whisper API`
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,docker,azure,firebase,figma,postman"/>
+| Type | What to expect                  |
+| :--: | :------------------------------ |
+|  ⚛️  | React applications              |
+|  🤖  | AI experiments & products       |
+|  📡  | Real-time systems               |
+|  🧠  | Architecture experiments        |
+|  🛠️ | Developer tooling               |
+|  🧪  | Technical experiments           |
+|  📚  | Things I'm learning by building |
 
 </div>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=akhan19760&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true"
-  height="170"
-/>
-
-<img
-  src="https://streak-stats.demolab.com?user=akhan19760&theme=github-dark-blue&hide_border=true"
-  height="170"
-/>
-
-<br/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhan19760&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=css,html"
-  height="170"
-/>
-
-</div>
-
----
-
-# 📊 A Few Numbers
-
-<div align="center">
-
-|  🧩 |   **9**  | Core frontend modules                             |
-| :-: | :------: | :------------------------------------------------ |
-|  ⚡  | **~25%** | Load-time improvement                             |
-|  ⏱️ | **366h** | Delivered in 6 weeks against a 200h plan          |
-|  🌍 |  **3+**  | Years building production software                |
-| 🏛️ |   **4**  | Domains: Government · Education · Compliance · AI |
-
-</div>
-
----
-
-# 🔭 Currently Exploring
-
-```text
-React Architecture
-        ↓
-TanStack Start
-        ↓
-Modern TypeScript
-        ↓
-AI-assisted development
-        ↓
-Full-stack architecture
-        ↓
-Building products of my own
-```
-
-I'm particularly interested in the space where **AI meets developer tooling and real-world productivity**.
-
-Not another ChatGPT wrapper.
-
-Something people would actually keep installed.
-
----
-
-# 💻 Beyond The Framework
-
-I care a lot about the fundamentals underneath React:
-
-**JavaScript → Browser → Network → HTTP → APIs → Database → Infrastructure**
-
-Because when something breaks in production, the answer isn't always:
-
-> "Maybe React needs another `useMemo()`."
-
-Sometimes the problem is the network.
-
-Sometimes it's the API.
-
-Sometimes it's caching.
-
-Sometimes the database is doing something ridiculous.
-
-And sometimes...
-
-```text
-the developer forgot to check null.
-```
-
-We've all been there.
-
----
-
-# 🏗️ What You'll Find Here
-
-```text
-┌──────────────────────────────────────────┐
-│                                          │
-│   Production-minded applications        │
-│                                          │
-│   ⚛️ React experiments                   │
-│   🤖 AI-powered projects                 │
-│   📡 Real-time systems                   │
-│   🧠 Architecture experiments            │
-│   🛠️ Developer tooling                   │
-│   📚 Things I'm learning                 │
-│                                          │
-└──────────────────────────────────────────┘
-```
-
-Some repositories are polished products.
-
-Some are experiments.
-
-Some exist because I wanted to understand **how something actually works**.
-
-All of them are part of the process.
 
 ---
 
@@ -439,18 +612,24 @@ All of them are part of the process.
 
 <div align="center">
 
-**Interested in building something difficult?**
-
 <a href="https://www.linkedin.com/in/khanabdur/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-3178C6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:kabdurrahim706@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-61DAFB?style=for-the-badge&logo=gmail&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/akhan19760">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:3178C6&height=100&section=footer" width="100%"/>
+<sub>Built with React energy, TypeScript paranoia, and an unreasonable number of browser tabs.</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,50:3178C6,100:0D1117&height=120&section=footer" width="100%"/>
 
 </div>
