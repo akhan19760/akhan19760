@@ -316,21 +316,26 @@ That's taught me to value **clear architecture without over-engineering**, becau
 
 ---
 
-# 📈 GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akhan19760&show_icons=true&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=3178C6&text_color=C9D1D9&ring_color=3178C6&include_all_commits=true&count_private=true" height="180"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=akhan19760&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true"
+  height="170"
+/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akhan19760&hide_border=true&background=0D1117&stroke=3178C6&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB&sideLabels=C9D1D9&dates=8B949E" height="180"/>
-
-</div>
+<img
+  src="https://streak-stats.demolab.com?user=akhan19760&theme=github-dark-blue&hide_border=true"
+  height="170"
+/>
 
 <br/>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhan19760&layout=compact&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&langs_count=8&hide=css,html" height="180"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhan19760&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=css,html"
+  height="170"
+/>
 
 </div>
 
