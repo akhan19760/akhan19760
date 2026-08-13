@@ -1,240 +1,199 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2563EB,100:61DAFB&height=190&section=header&text=Abdur%20Rahim%20Khan&fontSize=44&fontColor=FFFFFF&fontAlignY=35&desc=Frontend%20Engineer%20%E2%80%A2%20React%20%E2%80%A2%20TypeScript%20%E2%80%A2%20AI&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Abdur%20Rahim%20Khan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20Real-Time%20Systems%20%7C%20Regulated%20Platforms&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://readme-typing-svg.demolab.com/">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=61DAFB&center=true&vCenter=true&width=760&height=45&lines=Building+complex+interfaces+that+feel+simple.;Real-time+systems+%E2%80%A2+Data-heavy+UI+%E2%80%A2+AI+products.;3%2B+years+turning+messy+requirements+into+production+software." alt="Typing SVG"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Building+for+constraints%2C+not+just+features;3%2B+years+shipping+React+%2B+TypeScript+at+scale;Real-time+collaboration+%E2%80%A2+Compliance+%E2%80%A2+Multi-tenant+systems;Currently%3A+Software+Consultant+%40+Qatar+Datamation+Systems" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/khanabdur/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=61DAFB"/>
-</a>
-<a href="mailto:kabdurrahim706@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=akhan19760&style=flat-square&color=2563EB&label=PROFILE+VIEWS"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-khanbdur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khanbdur)
+[![Email](https://img.shields.io/badge/Email-kabdurrahim706%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kabdurrahim706@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-akhan19760-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akhan19760)
 
 </div>
 
----
+<br/>
 
-## 👋 About Me
+## 🧭 About Me
 
-Frontend Engineer with **3+ years of experience** building production applications across **government, compliance, education and AI**.
+I'm a **Software Engineer** who gravitates toward problems with real constraints — regulatory compliance, real-time collaboration, multi-tenant architecture — where understanding *why* something needs to work a certain way matters as much as building it.
 
-I enjoy working on the difficult frontend problems:
+Over the last 3+ years I've been a frontend/full-stack contributor to a **national-scale government platform**, built **real-time collaborative dashboards**, and shipped a **federal compliance SaaS** frontend from scratch. I care about clean state architecture, sub-second data pipelines, and building UI that survives contact with messy, high-stakes production requirements.
 
-**complex workflows · real-time data · large datasets · authentication · performance · AI**
+```txt
+const abdurRahimKhan = {
+  location: "Karachi, Pakistan",
+  role: "Software Consultant (Frontend / Full Stack)",
+  currentlyBuilding: "real-time audit & version-tracking dashboards for a government platform",
+  stack: ["React", "TypeScript", "TanStack", "Redux Toolkit", "Zustand", "Yjs", "SignalR"],
+  drawnTo: ["regulatory compliance", "real-time systems", "multi-tenant architecture"],
+  currentFocus: "AI-assisted engineering workflows (Claude Code, Cursor)"
+};
+```
 
-Currently exploring better ways to combine **AI + developer tools + knowledge systems**.
+<br/>
 
----
+## 🛠️ Tech Stack
 
-## 🚀 Featured Projects
+<div align="center">
+
+**Languages**
+<br/>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+**Frontend**
+<br/>
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TanStack](https://img.shields.io/badge/-TanStack-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Ant Design](https://img.shields.io/badge/-Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
+![Shadcn/UI](https://img.shields.io/badge/-shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Material UI](https://img.shields.io/badge/-Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+**State, Data & API**
+<br/>
+![Redux](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-433E38?style=flat-square)
+![React Query](https://img.shields.io/badge/-TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger%2FOpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+**Real-Time & Data Viz**
+<br/>
+![SignalR](https://img.shields.io/badge/-SignalR-512BD4?style=flat-square)
+![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Yjs](https://img.shields.io/badge/-Yjs%20CRDT-000000?style=flat-square)
+![ECharts](https://img.shields.io/badge/-ECharts-AA344D?style=flat-square&logo=apacheecharts&logoColor=white)
+![ApexCharts](https://img.shields.io/badge/-ApexCharts-008FFB?style=flat-square)
+
+**Auth, Tools & Platforms**
+<br/>
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+
+</div>
+
+<br/>
+
+## 💼 Experience Snapshot
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-### 🛡️ AccurateSpend
+### 🇶🇦 Qatar Datamation Systems <sub>(Contract)</sub>
+**Software Consultant — Frontend / Full Stack**
+`Sep 2025 – Present`
 
-**Compliance SaaS**
-
-CMS Open Payments reporting platform with:
-
-* 8 application modules
-* 60+ component design system
-* Custom validation engine
-* Correction workflows
-* CSV processing
-* Next.js → TanStack Start migration
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=redux,zustand,reactquery" />
+- Delivered **3 frontend modules** with multi-step forms, debounced search & advanced filtering
+- Built a **real-time audit & version-tracking dashboard** using **Yjs** for multi-user simultaneous editing
+- Improved UX performance **30–40%** across high-volume datasets via lazy-loaded, context-aware components
 
 </td>
-
 <td width="50%" valign="top">
 
-### ⚖️ KunARCHGPT
+### 🏛️ Veraqor
+**Software Developer — Frontend Engineer**
+`Jul 2023 – Sep 2025`
 
-**Legal AI**
-
-AI assistant for UK architectural-law queries with:
-
-* Context-aware conversations
-* AI-generated responses
-* Subscription system
-* OAuth authentication
-* Usage analytics
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,ts,openai" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=mui,redux" />
+- Core contributor to the **SCEAI platform**, used by the Government of Qatar & His Highness the Emir
+- Architected **9 core modules**, cut load times **~25%** restructuring Redux Toolkit + Zustand state
+- Built **SignalR + SSE** pipelines for sub-second dashboard updates
+- Delivered **366 hrs in 6 weeks** (vs. 200-hr plan) — the only bug-free modules at a national deadline
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
-### 🏛️ SCEAI Platform
+### 🎓 Ministry of Education, Kazakhstan
+**Associate Consultant** · `Jul 2023 – Nov 2023`
 
-**Government of Qatar**
-
-Large-scale economic affairs platform.
-
-* 9 core frontend modules
-* Real-time dashboards
-* RBAC
-* High-volume data
-* ~25% load-time improvement
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,ts,azure" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=redux,zustand,reactquery" />
+- Built a multi-tenant, multilingual **LMS** for uninterrupted learning during weather disruptions
+- Implemented **JWT auth** + dynamic role-based route guards
+- Cut redundant requests **40%** migrating to React Query caching
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🎓 Kazakhstan LMS
+### 🏭 Kazakhstan Petrochemical Industries
+**Associate Consultant** · `Nov 2023 – Aug 2024`
 
-**Ministry of Education**
-
-Multi-tenant multilingual learning platform.
-
-* Real-time examination workflows
-* Authentication
-* Large administrative dashboards
-* Reduced redundant requests
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,ts,firebase" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=redux,reactquery" />
+- Led frontend for an **AI protocoling suite** — real-time EN/KZ/RU transcription via **Whisper API**
+- Built chat-style dashboards with **ApexCharts, Tailwind, Framer Motion**
+- Implemented secure file handling: MIME filtering, client-side RBAC, protected routing
 
 </td>
-
 </tr>
 </table>
 
----
+<br/>
 
-## 🧰 Tech Stack
+## 🚀 Featured Projects
 
-<div align="center">
+### 🔷 AccurateSpend — Compliance SaaS Platform
+> Federal compliance SaaS automating **CMS Open Payments (Sunshine Act)** reporting for pharma & biotech — 8 product modules, from data intake to regulatory submission.
 
-### Languages
+- Built a **client-side validation engine** enforcing CMS rules (NPI format, reporting windows, entity types) with a side-by-side correction workspace + CSV export
+- Global fetch interceptor: CSRF tokens + single-flight token refresh with retry-on-401
+- Migrated **Next.js → TanStack Start** mid-project with zero lost in-progress work
+- Used **Claude Code & Cursor** as AI pair programmers — compressed an estimated **3–4 month build into ~3 weeks**
 
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,dart" />
-
-<br/><br/>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tanstack,tailwind" />
-
-<br/><br/>
-
-### State & Data
-
-<img src="https://skillicons.dev/icons?i=redux,zustand,reactquery,axios" />
-
-<br/><br/>
-
-### UI
-
-<img src="https://skillicons.dev/icons?i=mui,figma" />
-
-<br/><br/>
-
-### AI
-
-<img src="https://skillicons.dev/icons?i=openai" />
-
-<br/><br/>
-
-### Backend & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mssql,docker,azure" />
-
-<br/><br/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-
-</div>
+`React` `TypeScript` `TanStack Start/Router/Query` `Zustand` `Tailwind` `Radix UI` `Orval`
 
 ---
 
-## 📊 GitHub
+### 🔷 KunARCHGPT — UK Architecture Legal AI Chatbot
+> AI chatbot answering UK architectural law queries with context-aware generative responses.
 
-<div align="center">
+- Integrated **OpenAI API**, **Stripe** tiered subscriptions, and automated **SendGrid** notifications
+- Added **OAuth 2.0** (Google & Microsoft) + analytics dashboard with ECharts
 
-<a href="https://github.com/akhan19760">
-
-<img src="https://github-readme-stats.vercel.app/api?username=akhan19760&show_icons=true&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=3178C6&text_color=C9D1D9&ring_color=3178C6&include_all_commits=true" height="165"/>
-
-</a>
-
-<a href="https://github.com/akhan19760">
-
-<img src="https://streak-stats.demolab.com?user=akhan19760&theme=github-dark-blue&hide_border=true&background=0D1117&ring=61DAFB&fire=3178C6&currStreakLabel=61DAFB" height="165"/>
-
-</a>
+`React.js` `TypeScript` `OpenAI` `Stripe API` `OAuth 2.0` `Firebase` `Material UI`
 
 <br/>
 
-<a href="https://github.com/akhan19760">
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhan19760&layout=compact&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&langs_count=6&hide=html,css" height="150"/>
-
-</a>
-
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=akhan19760&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhan19760&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
----
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akhan19760&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
+
+## 🎓 Education
+
+**Institute of Business Administration**, Karachi — B.S. Computer Science
+`Aug 2019 – May 2023`
+
+<br/>
 
 <div align="center">
 
-### Building. Breaking. Learning. Shipping.
+### 📬 Let's Connect
 
-<a href="https://github.com/akhan19760">
-<img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/khanabdur/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khanbdur)
+[![Gmail](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kabdurrahim706@gmail.com)
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,50:2563EB,100:0D1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" width="100%"/>
 
 </div>
